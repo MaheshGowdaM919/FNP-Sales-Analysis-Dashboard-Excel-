@@ -50,7 +50,7 @@ The project utilizes the following steps, primarily within Excel:
 
 ## Project Structure
 
-* `Ferns and Petals Sales Analysis.xlsx`: The main Excel file containing the raw data, Power Query steps, data model, calculations, and the final dashboard.
+* `https://github.com/MaheshGowdaM919/FNP-Sales-Analysis-Dashboard-Excel-/blob/main/Ferns%20and%20Petals%20Sales%20Analysis%20Dashboard.xlsx`: The main Excel file containing the raw data, Power Query steps, data model, calculations, and the final dashboard.
 * (Potentially other supporting files like raw data CSVs if applicable, but based on the image, the primary deliverable is the Excel file.)
 
 ## How to Use/View the Project
