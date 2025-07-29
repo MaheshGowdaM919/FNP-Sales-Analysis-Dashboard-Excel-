@@ -50,11 +50,10 @@ The project utilizes the following steps, primarily within Excel:
 
 ## Project Structure
 
-* `https://github.com/MaheshGowdaM919/FNP-Sales-Analysis-Dashboard-Excel-/blob/main/Ferns%20and%20Petals%20Sales%20Analysis%20Dashboard.xlsx`: The main Excel file containing the raw data, Power Query steps, data model, calculations, and the final dashboard.
-* (Potentially other supporting files like raw data CSVs if applicable, but based on the image, the primary deliverable is the Excel file.)
+* `Ferns and Petals Sales Analysis Dashboard.xlsx`: The main Excel file containing the raw data, Power Query steps, data model, calculations, and the final dashboard.
 
 ## How to Use/View the Project
 
 1.  Clone this repository to your local machine.
-2.  Open the `Ferns and Petals Sales Analysis.xlsx` file using Microsoft Excel (preferably a recent version that supports Power Query and advanced dashboarding features).
+2.  Open the `Ferns and Petals Sales Analysis Dashboard.xlsx` file using Microsoft Excel (preferably a recent version that supports Power Query and advanced dashboarding features).
 3.  Navigate through the sheets to explore the data, the analysis steps, and the interactive dashboard.
